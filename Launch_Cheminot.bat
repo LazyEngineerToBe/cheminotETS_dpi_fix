@@ -1,0 +1,1 @@
+javaws -J-Dsun.java2d.dpiaware=false cheminot.jnlp
